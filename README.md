@@ -1,4 +1,4 @@
 Address
 =======
 
-Web Service para las direcciones para todos los sistemas de +qweb
+Web Service de direcciones para todos los sistemas de +qweb
